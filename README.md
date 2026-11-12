@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Marius
 
-<!--
-**MariusFrykhammar/MariusFrykhammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance graduate in Stockholm building tools where **finance meets data and AI**.
+BSc Business & Finance (Oxford Brookes, exchange at CBS).
 
-Here are some ideas to get you started:
+**What I build:** research and learning tools for markets: valuation, fund simulations, Nordic company data, and AI that reads financial documents so analysts don't have to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Featured projects
+
+First public projects are in progress and will be pinned below as they ship.
+
+#### Toolkit
+`Python` `TypeScript` `SQL` `Excel/VBA` `Supabase` `Vercel` · financial modelling, DCF/LBO, fund analytics · building with Claude Code
+
+#### Contact
+Swedish / English / Norwegian
