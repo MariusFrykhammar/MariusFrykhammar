@@ -17,4 +17,4 @@ First public projects are in progress and will be pinned below as they ship.
 #### Contact
 [LinkedIn](https://www.linkedin.com/in/marius-frykhammar/)
 
-Swedish · English · Norwegian
+Swedish | English | Norwegian
