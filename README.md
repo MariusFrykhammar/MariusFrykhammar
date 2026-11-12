@@ -1,7 +1,7 @@
 ### Hi, I'm Marius
 
 Finance graduate in Stockholm building tools where **finance meets data and AI**.
-BSc Business & Finance.
+
 
 **What I build:** research and learning tools for markets: valuation, fund simulations, Nordic company data, and AI that reads financial documents so analysts don't have to.
 
