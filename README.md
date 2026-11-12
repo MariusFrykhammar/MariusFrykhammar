@@ -15,4 +15,5 @@ First public projects are in progress and will be pinned below as they ship.
 `Python` `TypeScript` `SQL` `Excel/VBA` `Supabase` `Vercel` · financial modelling, DCF/LBO, fund analytics · building with Claude Code
 
 #### Contact
+[LinkedIn](https://www.linkedin.com/in/marius-frykhammar/)
 Swedish / English / Norwegian
